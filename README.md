@@ -44,9 +44,12 @@ PhD-trained Data Analyst with expertise in data analysis, machine learning, and 
 
 ## 🔗 GitHub Projects
 
-https://github.com/afeisede/customer-churn-prediction.git;
-https://github.com/afeisede/Sales-Forecasting.git;
-https://github.com/afeisede/customer-segmentation.git;
+https://github.com/afeisede/customer-churn-prediction.git
+
+https://github.com/afeisede/Sales-Forecasting.git
+
+https://github.com/afeisede/customer-segmentation.git
+
 https://github.com/afeisede/sales-dashboard.git
 
 ---
