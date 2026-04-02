@@ -58,3 +58,4 @@ https://github.com/afeisede/sales-dashboard.git
 
 Email: afeisede@gmail.com  
 GitHub: https://github.com/afeisede
+LinkedIn: www.linkedin.com/in/hamzatafeisede
