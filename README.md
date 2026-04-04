@@ -4,6 +4,12 @@
 
 PhD-trained Data Analyst with expertise in data analysis, machine learning, and business intelligence.
 
+I have developed end-to-end data projects covering:
+- Predictive modeling (churn prediction)
+- Time series forecasting
+- Customer segmentation
+- Business intelligence dashboards
+- Real-world business analysis (Café Harmony case study)
 ---
 
 ## 📊 Projects
@@ -28,6 +34,12 @@ PhD-trained Data Analyst with expertise in data analysis, machine learning, and 
 - Shows revenue, product, and regional performance
 - Includes KPIs and filters
 
+### 5. Café Harmony Business Analysis
+- Business analytics project using Excel and Python
+- Performed data cleaning, exploratory analysis, and visualization
+- Identified sales trends, product performance, and operational insights
+- Aggregated daily data into monthly trends for clearer business interpretation
+
 ---
 
 ## 🛠️ Skills Demonstrated
@@ -35,6 +47,7 @@ PhD-trained Data Analyst with expertise in data analysis, machine learning, and 
 - Python (Pandas, NumPy, scikit-learn)
 - SQL
 - Power BI
+- Excel (Data Cleaning & Analysis)
 - Data Visualization
 - Machine Learning
 - Time Series Analysis
@@ -51,6 +64,8 @@ https://github.com/afeisede/Sales-Forecasting.git
 https://github.com/afeisede/customer-segmentation.git
 
 https://github.com/afeisede/sales-dashboard.git
+
+https://github.com/afeisede/cafe-harmony-business-analysis.git
 
 ---
 
