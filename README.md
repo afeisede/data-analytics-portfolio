@@ -40,6 +40,12 @@ I have developed end-to-end data projects covering:
 - Identified sales trends, product performance, and operational insights
 - Aggregated daily data into monthly trends for clearer business interpretation
 
+### 6. Behavioral & Retention Analytics | SQL
+- Conducted end-to-end analysis of sales and customer data to identify growth opportunities
+- Segmented users and identified high-risk groups
+- Uncovered weak alignment between performance and compensation
+-	Delivered business recommendations to improve retention and decision-making
+
 ---
 
 ## 🛠️ Skills Demonstrated
