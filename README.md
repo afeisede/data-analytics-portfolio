@@ -73,6 +73,8 @@ https://github.com/afeisede/sales-dashboard.git
 
 https://github.com/afeisede/cafe-harmony-business-analysis.git
 
+https://github.com/afeisede/nextgen-employee-success-analytics-sql.git
+
 ---
 
 ## 📫 Contact
