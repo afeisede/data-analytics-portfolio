@@ -10,6 +10,7 @@ I have developed end-to-end data projects covering:
 - Customer segmentation
 - Business intelligence dashboards
 - Real-world business analysis (Café Harmony case study)
+- Behavioral & Retention Analytics
 ---
 
 ## 📊 Projects
